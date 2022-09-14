@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Calvin Ko
+- 👀 I’m interested in Software engineering and gaming
+- 🌱 I’m currently learning Computer Science at Colorado School of Mines
+- 📫 Email: calkwko@gmail.com LinkedIn: https://www.linkedin.com/in/calkwko/
